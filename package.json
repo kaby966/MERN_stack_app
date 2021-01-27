@@ -1,0 +1,11 @@
+{
+  "name": "mern_resturant_app",
+  "version": "1.0.0",
+  "description": "MERN stack resturant-app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kapil Mulchandani",
+  "license": "MIT"
+}
