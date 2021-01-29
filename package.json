@@ -4,8 +4,16 @@
   "description": "MERN stack resturant-app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "start-server": "nodemon server.js"
   },
   "author": "kapil Mulchandani",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13",
+    "nodemon": "^2.0.7",
+    "react-router-dom": "^5.2.0",
+    "reactstrap": "^8.9.0"
+  }
 }
